@@ -2,3 +2,9 @@ project_id = "ckalxcmmwziybomtaxql"
 
 [functions.upsc-mentor]
 verify_jwt = false
+
+[functions.polity-mentor]
+verify_jwt = false
+
+[functions.history-mentor]
+verify_jwt = false
